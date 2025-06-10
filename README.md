@@ -12,7 +12,7 @@ Train a model that analyzes CT images and outputs diagnostic text. Preliminary r
 
 📦 Repository Structure
 
-.
+
  ├── data/
  │   └── mllm_data/
  │       ├── image files (.jpg)
