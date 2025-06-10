@@ -1,3 +1,7 @@
+# Name: WANG HONGCHAO 
+# E-mail: h.wang12@studenti.unipi.it
+
+
 # Fine‑Tuning Project
 
 This project fine‑tunes a multi‑modal medical model using LLaMaFactory and Qwen2‑VL‑2B‑Instruct on CT image data from MedTrinity‑25M, aiming to generate diagnostic descriptions to assist clinicians.
